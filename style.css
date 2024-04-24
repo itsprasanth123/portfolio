@@ -127,7 +127,7 @@ a:hover {
 }
 
 .hamburger-icon.open span:first-child{
- opacite: 0;
+ opacity: 0;
 }
 
 .hamburger-icon.open span:first-child{
@@ -156,7 +156,7 @@ section{
   min-height: fit-content;
 }
 
-.section{
+.section-container{
    display: flex;
 }
 
